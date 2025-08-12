@@ -1,4 +1,4 @@
-<!--(this is the HTML)(<button id="itemBtn">Add Item</button>)-->
+<button id="itemBtn">Add Item</button>
 <!--this is js code -->
 const itemBtn = document.getElementById("itemBtn");
 let quantity = 0;
